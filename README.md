@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://github.com/schaefkn/schaefkn/blob/main/github-metrics.svg)
+
 <!--
 **schaefkn/schaefkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
